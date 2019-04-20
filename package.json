@@ -1,0 +1,25 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "react-facebook-login": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/react-boilerplate/react-boilerplate.git"
+  },
+  "homepage": "git://github.com/react-boilerplate/react-boilerplate.git",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
